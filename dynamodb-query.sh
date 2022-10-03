@@ -1,4 +1,3 @@
-# Track A
 aws \
 --profile profile \
 --region region \
